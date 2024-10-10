@@ -4,3 +4,4 @@ Figma - https://www.figma.com/proto/00zeyZoxEWr8QGr7sAHUmN/Login-Screen-DSP-(Com
 
 ![alt text](https://github.com/dassatavares/Login-Screen-DSP/blob/main/images/frame%201.png)
 ![alt text](https://github.com/dassatavares/Login-Screen-DSP/blob/main/images/frame%202.png)
+![alt text](https://github.com/dassatavares/Login-Screen-DSP/blob/main/images/frame%203.png)
