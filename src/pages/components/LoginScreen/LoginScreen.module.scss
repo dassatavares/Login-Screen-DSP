@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.loginContainer {
+  font-family: "Montserrat", sans-serif;
+  background: url('../../../../images/bg_login.svg') center center;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+
+  .loginForm{
+    max-width: 90%;
+    width: 475px;
+    padding: 2em 1.5em 1.5em 1.5em;
+    border-radius: 20px;
+    background: #fff;
+    border: 2px solid #efefef;
+    color: #6b7280;
+    font-size: calc(10px + 2vmin);
+
+    .checkbox{
+      border-radius: 100px;
+    }
+
+    input{
+      border-radius: 100px;
+      background: #F3F3F3;
+    }
+
+    h1{
+      color: #6b7280;
+    }
+  }  
+
+  .logo{
+    display: flex;
+    justify-content: center;
+    padding: 0 1em;
+  
+    .svg{
+      width: 100%;
+    }
+  }
+}
